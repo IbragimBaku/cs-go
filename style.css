@@ -23,4 +23,20 @@ iframe{
     border-bottom: 2px solid black;
     border-radius: 0 0 15px 15px;
     height: 80vh;
+}    
+my-button {
+    padding: 15px 30px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF; /* Синий цвет */
+    border: none;
+    border-radius: 10px; /* Скругленные углы */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Плавный переход при наведении */
+}
+
+.my-button:hover {
+    background-color: #0056b3; /* Более темный синий при наведении */
+}
+
 
