@@ -23,25 +23,4 @@ iframe{
     border-bottom: 2px solid black;
     border-radius: 0 0 15px 15px;
     height: 80vh;
-}
 
-
-
-
-
-
-
-/* Стилизация кнопки */
-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    color: white;
-    background-color: #007BFF;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
